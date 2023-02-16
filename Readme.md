@@ -1,1 +1,2 @@
-Olá, esse projeto ensina vc a usar o Git
+To usando isso pra aprender a usar o git 
+commit 2.0 
